@@ -1,0 +1,6 @@
+*.mp4
+*.mp4.7z
+*.mp4.txt
+*_file.txt
+BaiduPCS-Go-*/
+__pycache__/
