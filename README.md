@@ -35,7 +35,7 @@ Samba 录像目录  →  按天/按小时收集 .mp4 片段
 
 - **ffmpeg** — 视频拼接（需支持 concat demuxer）
 - **p7zip** (7z) — 加密压缩
-- **BaiduPCS-Go** — 百度网盘 CLI 上传工具（需提前登录授权）
+- **[BaiduPCS-Go](https://github.com/qjfoidnh/BaiduPCS-Go)** — 百度网盘 CLI 上传工具（首次使用需执行 `BaiduPCS-Go login` 扫码授权）
 
 ### Python 包
 
